@@ -313,12 +313,11 @@ background: #c42e3b;
 #history-button {
     background: rgba(28, 31, 37, 0) !important;
 }
-/*BG Icone avatar*/
+
 .thumb .background {
     background: rgba(0, 0, 0, 0.6);
 }
-/* ------------------------------------------------------------------ */
-/* BG Conf comu */
+
 #user-view,
 #dashboard,
 #room-settings,
@@ -327,6 +326,7 @@ background: #c42e3b;
 #history-panel {
     background: linear-gradient(hsla(210, 10%, 7%, .9), hsla(210, 10%, 5%, .9)) !important;
 }
+
 #user-menu,
 #room-settings-menu,
 #playlist-menu {
