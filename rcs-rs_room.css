@@ -335,7 +335,8 @@ background: #c42e3b;
 
 /*Barra de XP*/
 .experience .xp .bar .progress {
-    background: linear-gradient(rgba(255, 92, 222, 1), rgba(87, 0, 255, 1));}
+    background: linear-gradient(rgba(255, 92, 222, 1), rgba(87, 0, 255, 1));
+}
 #footer-user .info .bar .progress {
     background: linear-gradient(rgba(255, 92, 222, 1), rgba(87, 0, 255, 1));
 }
