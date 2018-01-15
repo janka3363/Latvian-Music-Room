@@ -242,4 +242,58 @@ background: #c42e3b;
 }
 #history-panel {
     background: rgba(0, 0, 0, 0.86);
-}
+/* ------------------------------------------------------------------ */
+/* CORES CHAT */
+/* HOST */
+#user-lists .group.host {
+    color: rgba(231, 250, 20, 0.59);
+    top: px;}
+.icon-chat-host + span,
+#user-lists .group.host ~ .user span,
+#dialog-user-role .role-menu .menu ul .host span {
+    color: rgba(231, 250, 20, 0.59) !important;}
+.icon-chat-cohost + span,
+#user-lists .group.cohost ~ .user span,
+#dialog-user-role .role-menu .menu ul .cohost span {
+    color: rgba(231, 250, 20, 0.59) !important;}
+#user-lists .group {
+    border: none !important;
+    box-shadow: 0 0 0px 0px;}
+/* ------------------------------------------------------------------ */
+/* Menedzeris */
+#user-lists .group.manager {
+    color: #F3508F;}
+.icon-chat-manager + span,
+#user-lists .group.manager ~ .user span,
+#dialog-user-role .role-menu .menu ul .manager span {
+    color: #F3508F !important;}
+/* ------------------------------------------------------------------ */
+/* apsargs */
+#user-lists .group.bouncer {
+    color: #F3508F;}
+.icon-chat-bouncer + span,
+#user-lists .group.bouncer ~ .user span,
+#dialog-user-role .role-menu .menu ul .bouncer span {
+    color: #F3508F !important;}
+/* ------------------------------------------------------------------ */
+/* DJ RESIDENT */
+#user-lists .group.dj {
+    color: #09FAE2;}
+.icon-chat-dj + span,
+#user-lists .group.dj ~ .user span,
+#dialog-user-role .role-menu .menu ul .dj span {
+    color: #09FAE2 !important;}
+/* ------------------------------------------------------------------ */
+#user-lists .list.staff .group{  
+   background:linear-gradient(to right,
+   rgba(8, 24, 94, 1) 100%)!important;border-top:1   px solid #04203c;border-bottom:1   px solid #04203c;
+}#user-lists .list.staff .group.host .icon-chat-host{  
+   background:   url(https:\\\\\\\\/\\\\\\\\/cdn.plug.dj\\\\\\\\/_\\\\\\\\/static\\\\\\\\/images\\\\\\\\/favicon.6aac83bc0ebed24c730c55b0599f40e56e40e47e.png) no-repeat;
+}#user-lists .list.staff .group.cohost .icon-chat-cohost{  
+   background:   url(https://cdn.radiant.dj/rcs/icons/radiant/cohost.png) no-repeat;
+}#user-lists .list.staff .group.manager .icon-chat-manager{  
+   background:   url(https://cdn.radiant.dj/rcs/icons/radiant/manager.png) no-repeat;
+}#user-lists .list.staff .group.bouncer .icon-chat-bouncer{  
+   background:   url(https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png) no-repeat;
+}#user-lists .list.staff .group.dj .icon-chat-dj{  
+   background:   url(https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png) no-repeat;
