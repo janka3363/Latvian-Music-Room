@@ -298,25 +298,15 @@ background: #c42e3b;
 #user-lists .list.staff .group{  
    background:linear-gradient(to right,
    rgba(8, 24, 94, 1) 100%)!important;border-top:1   px solid #04203c;border-bottom:1   px solid #04203c;
-}
-
-#user-lists .list.staff .group.host .icon-chat-host{  
+}#user-lists .list.staff .group.host .icon-chat-host{  
    background url(https://i.imgur.com/6dyCNXr.png) no-repeat;
-}
-
-#user-lists .list.staff .group.cohost .icon-chat-cohost{  
+}#user-lists .list.staff .group.cohost .icon-chat-cohost{  
    background:   url(https://cdn.radiant.dj/rcs/icons/radiant/cohost.png) no-repeat;
-}
-
-#user-lists .list.staff .group.manager .icon-chat-manager{  
+}#user-lists .list.staff .group.manager .icon-chat-manager{  
    background:   url(https://cdn.radiant.dj/rcs/icons/radiant/manager.png) no-repeat;
-}
-
-#user-lists .list.staff .group.bouncer .icon-chat-bouncer{  
+}#user-lists .list.staff .group.bouncer .icon-chat-bouncer{  
    background:   url(https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png) no-repeat;
-}
-
-#user-lists .list.staff .group.dj .icon-chat-dj{  
+}#user-lists .list.staff .group.dj .icon-chat-dj{  
    background:   url(https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png) no-repeat;
     
 }
