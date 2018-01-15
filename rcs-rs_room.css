@@ -240,8 +240,7 @@ background: #c42e3b;
 #rs-skip-button {
     background: none !important;
 }
-#history-panel {
-    background: rgba(0, 0, 0, 0.86);
+
 #footer-user .buttons .button.settings:hover .icon {
     -moz-transform: rotate(360deg)!important;
     -webkit-transform: rotate(360deg)!important;
