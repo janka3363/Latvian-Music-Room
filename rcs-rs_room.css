@@ -254,9 +254,6 @@ background: #c42e3b;
     transition: transform 1s ease-in-out
 }
 
-/* ------------------------------------------------------------------ */
-/* CORES CHAT */
-/* HOST */
 #user-lists .group.host {
     color: rgba(231, 250, 20, 0.59);
     top: px;}
@@ -271,24 +268,24 @@ background: #c42e3b;
 #user-lists .group {
     border: none !important;
     box-shadow: 0 0 0px 0px;}
-/* ------------------------------------------------------------------ */
-/* Menedzeris */
+}
+
 #user-lists .group.manager {
     color: #F3508F;}
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
     color: #F3508F !important;}
-/* ------------------------------------------------------------------ */
-/* apsargs */
+}
+
 #user-lists .group.bouncer {
     color: #F3508F;}
 .icon-chat-bouncer + span,
 #user-lists .group.bouncer ~ .user span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
     color: #F3508F !important;}
-/* ------------------------------------------------------------------ */
-/* DJ RESIDENT */
+}
+
 #user-lists .group.dj {
     color: #09FAE2;}
 .icon-chat-dj + span,
