@@ -333,9 +333,8 @@ background: #c42e3b;
     background: linear-gradient(to right, hsla(210, 10%, 10%, 0), hsla(210, 10%, 10%, .2));
 }
 
-#experience .xp .bar .progress {
-    background: linear-gradient(rgba(255, 92, 222, 1), rgba(87, 0, 255, 1));
-}
+.experience .xp .bar .progress {
+    background: linear-gradient(rgba(255, 92, 222, 1), rgba(87, 0, 255, 1));}
 #footer-user .info .bar .progress {
     background: linear-gradient(rgba(255, 92, 222, 1), rgba(87, 0, 255, 1));
 }
