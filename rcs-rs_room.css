@@ -539,34 +539,47 @@ background: linear-gradient(hsla(0, 0%, 0%, 0.94), hsla(0, 0%, 0%, 0.94)) !impor
 }
 * Interface */
 #footer-user .info {
-    background: rgba(0, 0, 0, 0.70);}
+    background: rgba(0, 0, 0, 0.70);
+}
 #dashboard {
     background: rgba(0, 0, 0, 0.5) !important;}
+
 .tab-menu button.selected {
-    background: linear-gradient(hsla(312, 100%, 44%, 0.45), hsla(260, 100%, 52%, 0.5)) !important;}
+    background: linear-gradient(hsla(312, 100%, 44%, 0.45), hsla(260, 100%, 52%, 0.5)) !important;
+}
 .tab-menu button:hover {
-    background: linear-gradient(hsla(312, 100%, 44%, 0.45), hsla(260, 100%, 52%, 0.5));}
+    background: linear-gradient(hsla(312, 100%, 44%, 0.45), hsla(260, 100%, 52%, 0.5));
+}
 .tab-menu button {
     background: rgba(0, 0, 0, 0.5);
-    border-radius: 15px;}
+    border-radius: 15px;
+}
 #rcs-progress-container {
-    background-color: #000 !important;}
+    background-color: #000 !important;
+}
 #rcs-progress-container .bar {
-    background: linear-gradient(hsla(312, 100%, 44%, 0.45), hsla(260, 100%, 52%, 0.5)) !important;}
+    background: linear-gradient(hsla(312, 100%, 44%, 0.45), hsla(260, 100%, 52%, 0.5)) !important;
+}
 #user-menu .item.selected {
-    background: linear-gradient(hsla(312, 100%, 44%, 0.45), hsla(260, 100%, 52%, 0.5));}
+    background: linear-gradient(hsla(312, 100%, 44%, 0.45), hsla(260, 100%, 52%, 0.5));
+}
 #playlist-menu .menu .row .count {
     color: #12afce;}
 #user-view {
-    background: rgba(17, 19, 23, 0.8) !important;}
+    background: rgba(17, 19, 23, 0.8) !important;
+}
 #user-menu {
-    background: rgba(28, 31, 37, 0) !important;}
+    background: rgba(28, 31, 37, 0) !important;
+}
 #rs-skip-button {
-    background: rgba(28, 31, 37, 0) !important;}
+	background: rgba(28, 31, 37, 0) !important;
+}
 #history-button {
-    background: rgba(28, 31, 37, 0) !important;}
+    background: rgba(28, 31, 37, 0) !important;
+}
 #vote .top {
-    background: rgba(34, 34, 36, 0.4) !important;}
+    background: rgba(34, 34, 36, 0.4) !important;
+}
 #room .app-right {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);    
 }
