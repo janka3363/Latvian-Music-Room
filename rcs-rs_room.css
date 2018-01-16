@@ -433,3 +433,26 @@ background: #c42e3b;
   40%, 60% {
     transform: translate3d(2px, 0, 0);}
 }
+/* Hover itens menu usuÃ¡rio plug */
+.item.profile.notify:hover,
+.item.inventory:hover,
+.item.store:hover,
+.item.friends.notify:hover,
+.item.played:hover,
+.item.settings:hover {
+    background: linear-gradient(rgba(224, 0, 180, 0.45), rgba(92, 10, 255, 0.5));
+    border-radius: 0px;}
+.item.community:hover {
+    background: linear-gradient(rgba(224, 0, 180, 0.45), rgba(92, 10, 255, 0.5));
+}
+/* Menu plug */
+#app-menu,
+#app-menu .list {
+    background: rgba(18, 20, 23, 0.62) !important;}
+#app-menu .list .item:hover {
+    background: rgba(16, 10, 10, 0.22);}
+#app-menu .list .rcsunload:hover,
+#app-menu .list .logout:hover {
+    border: 1px solid #100404 !important;
+    background: rgba(16, 10, 10, 0.22) !important;
+}
