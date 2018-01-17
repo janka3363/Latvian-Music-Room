@@ -271,7 +271,7 @@ background: #c42e3b;
 }
 
 #user-lists .group.manager {
-    color: #F3508F;}
+    color: #AB48C6;}
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
@@ -303,7 +303,7 @@ background: #c42e3b;
 }#user-lists .list.staff .group.cohost .icon-chat-cohost{  
    background:   url(https://cdn.radiant.dj/rcs/icons/radiant/cohost.png) no-repeat;
 }#user-lists .list.staff .group.manager .icon-chat-manager{  
-   background:   url(https://cdn.radiant.dj/rcs/icons/radiant/manager.png) no-repeat;
+   background:   url(https://dl.dropboxusercontent.com/////////s/////////93yaygdcir8u4yd/////////icon.managermod.png) no-repeat;
 }#user-lists .list.staff .group.bouncer .icon-chat-bouncer{  
    background:   url(https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png) no-repeat;
 }#user-lists .list.staff .group.dj .icon-chat-dj{  
