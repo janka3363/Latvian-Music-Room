@@ -255,16 +255,16 @@ background: #c42e3b;
 }
 
 #user-lists .group.host {
-    color: rgba(231, 250, 20, 0.59);
+    color: rgba(0, 181, 230, 1);
     top: px;}
 .icon-chat-host + span,
 #user-lists .group.host ~ .user span,
 #dialog-user-role .role-menu .menu ul .host span {
-    color: rgba(231, 250, 20, 0.59) !important;}
+    color: rgba(0, 181, 230, 1) !important;}
 .icon-chat-cohost + span,
 #user-lists .group.cohost ~ .user span,
 #dialog-user-role .role-menu .menu ul .cohost span {
-    color: rgba(231, 250, 20, 0.59) !important;}
+    color: rgba(0, 181, 230, 1) !important;}
 #user-lists .group {
     border: none !important;
     box-shadow: 0 0 0px 0px;}
