@@ -275,7 +275,7 @@ background: #c42e3b;
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
-    color: #F3508F !important;}
+    color: #ab48c6 !important;}
 }
 
 #user-lists .group.bouncer {
