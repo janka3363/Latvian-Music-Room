@@ -583,3 +583,23 @@ background: linear-gradient(hsla(0, 0%, 0%, 0.94), hsla(0, 0%, 0%, 0.94)) !impor
 #room .app-right {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);    
 }
+}#user-rollover.is-staff.role-manager .online .thumb{  
+   border-color:#ab48c6!important;
+}#user-rollover.is-staff .role .icon-chat-manager+span{  
+   color:#ab48c6!important;
+}#user-rollover.is-staff .role .icon-chat-manager{  
+   background:   url('https://dl.dropboxusercontent.com/////////s/////////93yaygdcir8u4yd/////////icon.managermod.png')!important;
+	
+	}#user-rollover.is-staff.role-bouncer .online .thumb{  
+   border-color:#F3508F!important;
+}#user-rollover.is-staff .role .icon-chat-bouncer+span{  
+   color:#F3508F!important;
+}#user-rollover.is-staff .role .icon-chat-bouncer{  
+   background:   url('https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png')!important;
+	
+	}#user-rollover.is-staff.role-dj .online .thumb{  
+   border-color:#09FAE2!important;
+}#user-rollover.is-staff .role .icon-chat-dj+span{  
+   color:#09FAE2!important;
+}#user-rollover.is-staff .role .icon-chat-dj{  
+   background:   url('https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png')!important;
