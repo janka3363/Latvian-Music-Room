@@ -301,7 +301,7 @@ background: #c42e3b;
 }#user-lists .list.staff .group.host .icon-chat-host{  
    background url(https://i.imgur.com/6dyCNXr.png) no-repeat;
 }#user-lists .list.staff .group.cohost .icon-chat-cohost{  
-   background:   url(https://dl.dropboxusercontent.com/////////s/////////f1vne37vw9949ca/////////icon.host.png) no-repeat;
+   background:   url null; no-repeat;
 }#user-lists .list.staff .group.manager .icon-chat-manager{  
    background:   url(https://dl.dropboxusercontent.com/////////s/////////93yaygdcir8u4yd/////////icon.managermod.png) no-repeat;
 }#user-lists .list.staff .group.bouncer .icon-chat-bouncer{  
