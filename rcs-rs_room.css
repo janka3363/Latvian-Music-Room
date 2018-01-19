@@ -464,13 +464,14 @@ i.icon.icon-room {
 /* Menu plug */
 #app-menu,
 #app-menu .list {
-    background: rgba(18, 20, 23, 0.62) !important;}
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%) !important;}
 #app-menu .list .item:hover {
-    background: rgba(16, 10, 10, 0.22);}
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
+}
 #app-menu .list .rcsunload:hover,
 #app-menu .list .logout:hover {
     border: 1px solid #100404 !important;
-    background: rgba(16, 10, 10, 0.22) !important;
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%) !important;
 }
 /*  peles rulits */
 ::-webkit-scrollbar-thumb {
@@ -553,10 +554,7 @@ background: linear-gradient(hsla(0, 0%, 0%, 0.94), hsla(0, 0%, 0%, 0.94)) !impor
     top: 26px !important;
     right: -62px !important;
 }
-* Interface */
-#footer-user .info {
-    background: rgba(0, 0, 0, 0.70);
-}
+
 #dashboard {
     background: rgba(0, 0, 0, 0.5) !important;}
 
