@@ -340,14 +340,13 @@ i.icon.icon-room {
 #media-panel,
 #playlist-panel,
 #history-panel {
-    background: linear-gradient(hsla(210, 10%, 7%, .9), hsla(210, 10%, 5%, .9)) !important;
-}
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%) !important;}
 
 #user-menu,
 #room-settings-menu,
 #playlist-menu {
-    background: linear-gradient(to right, hsla(210, 10%, 10%, 0), hsla(210, 10%, 10%, .2));
-}
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%) !important;}
+
 
 /*Barra de XP*/
 .experience .xp .bar .progress {
@@ -621,4 +620,14 @@ background: linear-gradient(hsla(0, 0%, 0%, 0.94), hsla(0, 0%, 0%, 0.94)) !impor
 	/* Interface */
 #footer-user .info {
     background: rgba(0, 0, 0, 0.70);
+}
+/* Botoes importar, Criar playlist */
+#playlist-import {
+    background: linear-gradient(hsla(220, 6%, 18%, 0.78), hsla(220, 4%, 5%, 0.91));}
+#playlist-import:hover {
+    background: linear-gradient(hsla(263, 79%, 56%, 0.6), hsla(263, 79%, 35%, 0.6));}
+#playlist-create {
+    background: linear-gradient(hsla(220, 6%, 18%, 0.78), hsla(220, 4%, 5%, 0.91));}
+#playlist-create:hover {
+    background: linear-gradient(hsla(193, 100%, 45%, 0.78), hsla(193, 100%, 26%, 0.91));
 }
