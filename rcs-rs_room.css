@@ -340,12 +340,12 @@ i.icon.icon-room {
 #media-panel,
 #playlist-panel,
 #history-panel {
-    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.88) 0,rgba(0, 0, 0, 0.75) 100%) !important;}
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.88) 0,rgba(0, 0, 0, 0.88) 100%) !important;}
 
 #user-menu,
 #room-settings-menu,
 #playlist-menu {
-    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.88) 0,rgba(0, 0, 0, 0.75) 100%) !important;}
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 90%,rgba(0, 0, 0, 0.75) 100%) !important;}
 
 
 /*Barra de XP*/
