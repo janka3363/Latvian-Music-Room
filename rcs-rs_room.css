@@ -619,3 +619,8 @@ background: linear-gradient(hsla(0, 0%, 0%, 0.94), hsla(0, 0%, 0%, 0.94)) !impor
    color:#09FAE2!important;
 }#user-rollover.is-staff .role .icon-chat-dj{  
    background:   url('https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png')!important;
+}	
+	/* Interface */
+#footer-user .info {
+    background: rgba(0, 0, 0, 0.70);
+}
