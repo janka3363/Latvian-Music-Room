@@ -591,9 +591,6 @@ background: linear-gradient(hsla(0, 0%, 0%, 0.94), hsla(0, 0%, 0%, 0.94)) !impor
 #history-button {
     background: rgba(28, 31, 37, 0) !important;
 }
-#vote .top {
-    background: rgba(34, 34, 36, 0.4) !important;
-}
 #room .app-right {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);    
 }
