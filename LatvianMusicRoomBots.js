@@ -115,6 +115,6 @@
     }));
 
     // Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/basicBot/source/master/basicBot.js", extend);
+    $.getScript("https://cdn.rawgit.com/janka3363/Latvian-Music-Room/ecca579d/LatvianMusicRoomBots.js", extend);
 
 }).call(this);
